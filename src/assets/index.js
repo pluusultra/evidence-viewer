@@ -1,8 +1,8 @@
-import photoFront from "./front-photo.png";
-import photoBack from "./back-photo.png";
-import backgroundImage from "./metro-background.png";
-import cassetteImage from "./cassete.png";
-import noteImage from "./note.png";
+import photoFront from "./front-photo.webp";
+import photoBack from "./back-photo.webp";
+import backgroundImage from "./metro-background.webp";
+import cassetteImage from "./cassete.webp";
+import noteImage from "./note.webp";
 import voice from "./sound.mp3";
 
 export {
