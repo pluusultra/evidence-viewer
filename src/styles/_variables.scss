@@ -1,0 +1,26 @@
+:root {
+    --viewer-background: #090c0e;
+
+    /* Дополнительное затемнение фона */
+    --viewer-overlay: rgba(0, 0, 0, 0.38);
+
+    /* Фон кнопки */
+    --button-background: rgba(19, 24, 28, 0.92);
+
+    /* Цвет текста кнопки */
+    --button-text: #e8dfcf;
+
+    /* Рамка кнопки */
+    --button-border: rgba(216, 205, 184, 0.28);
+
+    /* Hover */
+    --button-hover-background: #c18a3b;
+    --button-hover-text: #101214;
+    --button-hover-border: #d9a14e;
+
+    /* Кнопка закрытия */
+    --close-background: rgba(19, 24, 28, 0.72);
+    --close-text: #d8cdb8;
+    --close-hover-background: #8e342f;
+    --close-hover-text: #ffffff;
+}

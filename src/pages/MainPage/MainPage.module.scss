@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 100vh;
+    color: white;
+}
+
+.backgroundOverlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.optionsButton {
+    color: inherit;
+    font-size: 30px;
+
+    &:not(:first-child) {
+        margin-left: 20px;
+    }
+}
